@@ -7,9 +7,9 @@ The goal is to demonstrate geometric positioning and CSS layout techniques while
 
 The design includes:
 
--A bottle green rectangular background
+- A bottle green rectangular background
 
--A perfect red circle positioned at the center
+- A perfect red circle positioned at the center
 
 ## Live Demo
 
