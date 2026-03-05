@@ -17,3 +17,8 @@ You can view the live project here:
 🔗 Live Link:
 [Live](https://bangladflag.netlify.app/)
 
+Screenshot
+
+Below is a preview of the project:
+
+![Bangladesh Flag Screenshot](./bdflag.png)
